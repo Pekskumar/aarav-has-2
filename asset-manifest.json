@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/aarav-has-2/static/css/main.31d6cfe0.css",
+    "main.js": "/aarav-has-2/static/js/main.72632546.js",
+    "index.html": "/aarav-has-2/index.html",
+    "main.72632546.js.map": "/aarav-has-2/static/js/main.72632546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.72632546.js"
+  ]
+}
